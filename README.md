@@ -6,8 +6,6 @@ Areas of focus:
 - Systems modeling (ODEs, flux balance analysis, stochastic modeling)  
 - Programming in Python, R, MATLAB  
 
-Projects coming soon:
+Projects completed:
 - RNA-seq Pipeline Demo  
 - Motif Discovery & Entropy Scoring  
-- Flux Balance Analysis with COBRApy  
-- ML Classifier for RNA-seq Data
