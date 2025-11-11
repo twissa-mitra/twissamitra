@@ -8,4 +8,15 @@ Areas of focus:
 
 Projects completed:
 - RNA-seq Pipeline Demo  
+**A reproducible RNA-seq workflow using public data.**  
+QC (FastQC), alignment (STAR/HISAT2), quantification (featureCounts), and DE analysis (DESeq2) with R/Python utilities.  
+Repo: https://github.com/twissa-mitra/rna-seq-pipeline  
+
 - Motif Discovery & Entropy Scoring  
+Python + Jupyter workflow to compute and visualize motif entropy and compare sequence variants.  
+Repo: https://github.com/twissa-mitra/motif-entropy-nfkb  
+
+## Technical Skills
+- **Languages:** Python, R, MATLAB  
+- **Tools:** STAR, HISAT2, featureCounts, DESeq2, Conda  
+- **Methods:** statistical modeling, FBA, ODE modeling, QC workflows  
