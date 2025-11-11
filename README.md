@@ -15,8 +15,3 @@ Repo: https://github.com/twissa-mitra/rna-seq-pipeline
 - Motif Discovery & Entropy Scoring  
 Python + Jupyter workflow to compute and visualize motif entropy and compare sequence variants.  
 Repo: https://github.com/twissa-mitra/motif-entropy-nfkb  
-
-## Technical Skills
-- **Languages:** Python, R, MATLAB  
-- **Tools:** STAR, HISAT2, featureCounts, DESeq2, Conda  
-- **Methods:** statistical modeling, FBA, ODE modeling, QC workflows  
