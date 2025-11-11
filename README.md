@@ -8,7 +8,7 @@ Areas of focus:
 
 Projects completed:
 - RNA-seq Pipeline Demo  
-**A reproducible RNA-seq workflow using public data.**  
+A reproducible RNA-seq workflow using public data.  
 QC (FastQC), alignment (STAR/HISAT2), quantification (featureCounts), and DE analysis (DESeq2) with R/Python utilities.  
 Repo: https://github.com/twissa-mitra/rna-seq-pipeline  
 
